@@ -1,0 +1,147 @@
+body, html{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card{
+    height: auto;
+    border-radius: 20px;
+}
+
+.headerimg{
+    display: flex;
+    justify-content: center;
+}
+
+.header{
+    padding-left: 25px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+
+}
+
+.emailin{
+    padding-left: 25px;
+    list-style: none;
+    font-size: 12px;
+    padding-bottom: 10px;
+}
+
+.xxmymail{
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+ 
+}
+
+
+
+.passburb{
+    display: flex;
+    float: left;
+    flex-direction: row;
+    padding-left: 25px;
+    list-style: none;
+    font-size: 12px;
+    padding-bottom: 10px;
+}
+
+.pswreset{
+    float: right;
+    list-style: none;
+    font-size: 12px;
+    padding-right: 25px;
+}
+
+.pswreset a{
+    text-decoration: none;
+}
+
+.pswreset a:hover{
+    text-decoration: underline;
+}
+
+.xxmypsw{
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-bottom: 20px;
+  
+}
+
+.sign{
+    padding-bottom: 10px;
+}
+
+.sign-btn{
+    padding-left: 224px;
+    padding-right: 224px;
+    color: black;
+    border-radius: 5px;
+}
+
+.xxfineprint{
+    display: flex;
+    flex-wrap: wrap;
+    text-decoration: none;
+    justify-content: flex-start;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top:10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.xxhr{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    flex-basis: 0;
+}
+
+.xxhr{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.xxhr-l{
+    content: "";
+    flex-grow: .3;
+}
+
+
+
+.form-check{
+    padding-left: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.d-grid{
+    display: flex;
+    justify-content: center;
+}
+
+.create-btn{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    padding-left: 104px;
+    padding-right: 104px;
+    color: black;
+    font-size: 18px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+.testn{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    align-content: center;
+}
